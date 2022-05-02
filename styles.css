@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+}
+
+h1 {
+    color: yellowgreen;
+    background-color: black;
+    font-size: 50%;
+    font-family: "Papyrus";
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    background-color: whitesmoke;
+    font-size: 10%;
+    font-family: "Comic Sans";
+    text-align: center;
+}
+
+h3 {
+    color: green;
+    background-color: red;
+    font-family: "Comic Sans";
+    text-align: center;
+}
